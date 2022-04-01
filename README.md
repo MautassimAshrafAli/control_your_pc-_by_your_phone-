@@ -1,6 +1,14 @@
 # control your pc by your phone
 
 # Your phone is the client and Pc is server.
+You can control :
+- Keyboard
+- Camera {teake photo - video - make camera in night mode [if you have install smart camera link : https://github.com/MutassimAshraf123/Smart_Camera]}
+- Open social media
+- Change device background image
+- Cam spy {allows the you to see who in your device}
+- Control power mode
+
 
 ![Untitled_](https://user-images.githubusercontent.com/79098078/161350580-bfb1a5dd-0bb0-45b9-81e7-62c6cf53274d.png)
 
