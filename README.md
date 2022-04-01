@@ -9,6 +9,7 @@ You can control :
 - Cam spy {allows the you to see who in your device}
 - Control power mode
 
+Bridge apk app link : https://github.com/MutassimAshraf123/Bridge_apk
 
 ![Untitled_](https://user-images.githubusercontent.com/79098078/161350580-bfb1a5dd-0bb0-45b9-81e7-62c6cf53274d.png)
 
