@@ -1,6 +1,6 @@
 # control your pc by your phone
 
-Your phone is the client and Pc is server.
+# Your phone is the client and Pc is server.
 
 ![Untitled_](https://user-images.githubusercontent.com/79098078/161350580-bfb1a5dd-0bb0-45b9-81e7-62c6cf53274d.png)
 
